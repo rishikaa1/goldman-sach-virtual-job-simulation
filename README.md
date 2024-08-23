@@ -1,4 +1,4 @@
-# Goldman Sachs Governance Analyst Job Simulation
+# Goldman Sachs Software Engineering Job Simulation
 
 ## Overview
 
@@ -38,10 +38,9 @@ A comprehensive memo summarizing the findings and recommendations was prepared f
 ## Files
 
 - **`analysis_results.txt`**: Contains the results of the password analysis.
-- **`memo_to_supervisor.md`**: The final memo outlining the proposed uplifts for password security.
+- **`password_hashes.txt`**: Contains the hashed passwords.
+- **`memo_to_supervisor.pdf`**: The final memo outlining the proposed uplifts for password security.
 - **`hashcat_scripts/`**: Directory with Hashcat scripts and configurations used during the analysis.
 
-## Getting Started
 
-1. **Clone the Repository:**
  
