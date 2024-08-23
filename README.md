@@ -40,7 +40,7 @@ A comprehensive memo summarizing the findings and recommendations was prepared f
 - **`analysis_results.txt`**: Contains the results of the password analysis.
 - **`hashed_passwords.txt`**: Contains the hashed passwords.
 - **`memo_to_supervisor.pdf`**: The final memo outlining the proposed uplifts for password security.
-- **`hashcat_scripts/`**: Directory with Hashcat scripts and configurations used during the analysis.
+- **`hashcat_script/`**: Directory with Hashcat scripts and configurations used during the analysis.
 
 
  
